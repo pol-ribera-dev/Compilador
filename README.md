@@ -1,1 +1,1 @@
-Creació de un compilador a partir d'unes bases ja donades pels profesors
+Creación de un compilador a partir de unas bases ya marcadas por los profesores.
